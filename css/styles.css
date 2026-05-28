@@ -1,0 +1,48 @@
+#red {
+    background-color: red;
+    min-height: 40px;
+}
+#blue {
+    background-color: blue;
+    min-height: 40px;
+}
+#yellow {
+    background-color: yellow;
+    min-height: 40px;
+}
+#green {
+    background-color: green;
+    min-height: 40px;
+}
+#orange {
+    background-color: orange;
+    min-height: 40px;
+}
+#purple {
+    background-color: purple;
+    min-height: 40px;
+}
+#red-orange {
+    background-color: #FF4433;
+    min-height: 40px;
+}
+#yellow-orange {
+    background-color: #FFAE42;
+    min-height: 40px;
+}
+#yellow-green {
+    background-color: #9ACD32;
+    min-height: 40px;
+}
+#blue-green {
+    background-color: #0D98BA;
+    min-height: 40px;
+}
+#blue-violet {
+    background-color: #8A2BE2;
+    min-height: 40px;
+}
+#red-violet {
+    background-color: #C71585;
+    min-height: 40px;
+}
